@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Primeiro Site</title>
+</head>
+<body>
+  <h1>Olá, Nathe!</h1>
+  <p>Esse é meu primeiro site feito do zero 🎉</p>
+  <button onclick="alert('Você clicou!')">Clique aqui</button>
+</body>
+</html>
